@@ -410,7 +410,7 @@
         "editor.diff_hunk.added.hollow_border": "#398A8688",
         "editor.diff_hunk.deleted.hollow_background": "#24113666",
         "editor.diff_hunk.deleted.hollow_border": "#7459A888",
-        "version_control.word_added": "#024f44AA",
+        "version_control.word_added": "#0D1E66",
         "version_control.word_deleted": "#550975AA"
       }
     }
