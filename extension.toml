@@ -3,6 +3,6 @@ name = "NeuroCalm Blue Theme"
 version = "0.0.1"
 schema_version = 1
 authors = ["SunleoSun"]
-description = "A low-stimulation dark navy Zed theme with teal, blue, and violet accents for a calmer coding environment."
+description = "A low-stimulation Zed theme family with deep navy and soft blue-gray variants, using teal, blue, violet, and restrained warm accents."
 repository = "https://github.com/SunleoSun/neurocalm-blue-zed-theme"
 themes = ["themes/neurocalm-blue.json"]

@@ -1,20 +1,33 @@
 # NeuroCalm Blue Theme
 
-NeuroCalm Blue Theme is a dark theme for [Zed](https://zed.dev/) built around deep navy surfaces with blue, teal, and violet accents.
+NeuroCalm Blue Theme is a low-stimulation theme family for Zed built around muted blue-gray surfaces with blue, teal, violet, and restrained warm accents.
 
-The palette is intentionally low-stimulation: large surfaces stay dark and cool, while brighter colors are reserved for syntax, focus states, diagnostics, and version-control meaning. The design goal is a calmer, comfortable coding environment for long sessions; it is not a medical or health claim.
+The design goal is a calmer, comfortable coding environment for long sessions; it is not a medical or health claim.
 
-## Palette
+## Variants
+
+### NeuroCalm Blue Dark
+
+The original deep-navy variant with bright but controlled syntax accents.
 
 - Editor background: `#020614`
 - Main UI background: `#060D24`
-- Panel/surface background: `#071027`
 - Variables: `#96E8FF`
 - Functions: `#D9B3FF`
 - Types: `#4AD99E`
-- Added diff emphasis: teal
-- Deleted diff emphasis: violet
-- Strings and numbers: restrained warm accents
+
+### NeuroCalm Blue Medium
+
+A medium-light desaturated blue-gray variant with dark syntax for higher text clarity while keeping the same color semantics.
+
+- Editor background: `#D5DEE5`
+- Main UI background: `#C8D3DB`
+- Main text: `#101820`
+- Variables: `#18384D`
+- Functions: `#633873`
+- Types: `#006047`
+
+Both variants use teal for added changes, violet for deleted changes, blue for modified changes, and restrained warm accents for strings and numbers.
 
 ## Local development
 
@@ -22,7 +35,7 @@ The palette is intentionally low-stimulation: large surfaces stay dark and cool,
 2. In Zed, open the command palette.
 3. Run `zed: install dev extension`.
 4. Select the repository root.
-5. Open the theme selector with `Ctrl+K Ctrl+T` and choose **NeuroCalm Blue Theme**.
+5. Open the theme selector with `Ctrl+K Ctrl+T` and choose **NeuroCalm Blue Dark** or **NeuroCalm Blue Medium**.
 
 After editing the theme, use `zed: rebuild dev extension` if Zed does not pick up the change automatically.
 
