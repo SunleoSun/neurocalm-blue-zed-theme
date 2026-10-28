@@ -31,8 +31,8 @@ A medium-light desaturated blue-gray variant with dark syntax for higher text cl
 
 A brighter blue-gray variant with stronger syntax color separation, based on the post-Medium contrast and saturation refinements.
 
-- Editor background: `#E4EBEF`
-- Main UI background: `#D8E2E8`
+- Editor background: `#EAF0F3`
+- Main UI background: `#DEE7EC`
 - Main text: `#101820`
 - Variables: `#17465F`
 - Functions: `#734083`
