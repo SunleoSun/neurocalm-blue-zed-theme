@@ -27,7 +27,18 @@ A medium-light desaturated blue-gray variant with dark syntax for higher text cl
 - Functions: `#633873`
 - Types: `#006047`
 
-Both variants use teal for added changes, violet for deleted changes, blue for modified changes, and restrained warm accents for strings and numbers.
+### NeuroCalm Blue Light
+
+A brighter blue-gray variant with stronger syntax color separation, based on the post-Medium contrast and saturation refinements.
+
+- Editor background: `#E4EBEF`
+- Main UI background: `#D8E2E8`
+- Main text: `#101820`
+- Variables: `#17465F`
+- Functions: `#734083`
+- Types: `#00785C`
+
+All three variants use teal for added changes, violet for deleted changes, blue for modified changes, and restrained warm accents for strings and numbers.
 
 ## Local development
 
@@ -35,7 +46,7 @@ Both variants use teal for added changes, violet for deleted changes, blue for m
 2. In Zed, open the command palette.
 3. Run `zed: install dev extension`.
 4. Select the repository root.
-5. Open the theme selector with `Ctrl+K Ctrl+T` and choose **NeuroCalm Blue Dark** or **NeuroCalm Blue Medium**.
+5. Open the theme selector with `Ctrl+K Ctrl+T` and choose **NeuroCalm Blue Dark**, **NeuroCalm Blue Medium**, or **NeuroCalm Blue Light**.
 
 After editing the theme, use `zed: rebuild dev extension` if Zed does not pick up the change automatically.
 
