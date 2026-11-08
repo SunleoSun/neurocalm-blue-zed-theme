@@ -117,13 +117,13 @@
         "version_control.conflict": "#705A2D",
         "version_control.ignored": "#66757F",
         "created": "#2C6253",
-        "created.background": "#48A27D30",
+        "created.background": "#48A27D20",
         "created.border": "#3E7565",
         "deleted": "#60476F",
-        "deleted.background": "#A06DAA30",
+        "deleted.background": "#A06DAA20",
         "deleted.border": "#70547F",
         "modified": "#35566F",
-        "modified.background": "#4F8BB430",
+        "modified.background": "#4F8BB420",
         "modified.border": "#476B82",
         "conflict": "#705A2D",
         "conflict.background": "#A9935B44",
@@ -308,14 +308,14 @@
             "font_weight": 500
           }
         },
-        "editor.diff_hunk.added.background": "#3E9A7628",
-        "editor.diff_hunk.deleted.background": "#92529A28",
-        "editor.diff_hunk.added.hollow_background": "#4AA38134",
+        "editor.diff_hunk.added.background": "#3E9A7618",
+        "editor.diff_hunk.deleted.background": "#92529A18",
+        "editor.diff_hunk.added.hollow_background": "#4AA38122",
         "editor.diff_hunk.added.hollow_border": "#23876788",
-        "editor.diff_hunk.deleted.hollow_background": "#A76FAE34",
+        "editor.diff_hunk.deleted.hollow_background": "#A76FAE22",
         "editor.diff_hunk.deleted.hollow_border": "#843F8E88",
-        "version_control.word_added": "#2F9D7860",
-        "version_control.word_deleted": "#A65AAC60"
+        "version_control.word_added": "#2F9D7848",
+        "version_control.word_deleted": "#A65AAC48"
       }
     }
   ]
